@@ -59,11 +59,6 @@ To enable data submission and request forms, ensure to connect the code to a bac
 ![Meet Conference Website Screenshot4](images/website_screenshots/SharedScreenshot4.jpg)
 ![Meet Conference Website Screenshot5](images/website_screenshots/SharedScreenshot5.jpg)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ### Important Note
 
